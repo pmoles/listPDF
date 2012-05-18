@@ -1,3 +1,5 @@
+Show title and author of all the pdf in a directory
+
 INSTALLATION:
 	Copy the script wherever you want, but keep in mind that pyPdf is requiered in your system.
 USAGE:
